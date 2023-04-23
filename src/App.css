@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.button {
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 1px solid red;
+  font-size: 20px;
+  background-color: rgb(67, 156, 245);
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.background-red {
+  background-color: red;
+}
