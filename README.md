@@ -12,7 +12,7 @@ This project is deployed in link [https://rajsrm2021.github.io/project-srm-notic
 Installation:
 ```
 $ git clone https://github.com/rajsrm2021/project-srm-notice.git
-$ cd project-sorting-visualizer
+$ cd project-srm-notice
 $ npm install
 ```
 To start server:
