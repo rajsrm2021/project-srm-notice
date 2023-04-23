@@ -19,8 +19,6 @@ function App(){
           onClick={play}
           >
               SRM NOTICE 
-              <br>
-                CLICK ME
           </button>
       </div>
 
