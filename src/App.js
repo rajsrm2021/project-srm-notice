@@ -18,7 +18,9 @@ function App(){
           <button className='button'
           onClick={play}
           >
-              SRM NOTICE
+              SRM NOTICE 
+              <br>
+                CLICK ME
           </button>
       </div>
 
